@@ -1,4 +1,3 @@
-# linux-lab-notes
 # Linux Lab Notes 🐧
 
 ## 🎯 About This Repository
@@ -40,6 +39,7 @@ Every guide follows a strict professional standard:
 - Master the Linux CLI for daily professional tasks.
 - Understand Debian-based package management (APT, PPA, DPKG).
 - Build a reproducible development environment.
+- Understand proxy.
 
 ---
 **Author:** Jesus Becerra  

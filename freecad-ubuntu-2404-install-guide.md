@@ -72,7 +72,7 @@ Dependency Decoupling: When a non-essential package (like offline docs) fails, p
 
 Engineering Ready: By installing calculix-ccx, the environment is fully equipped for Finite Element Analysis (FEA/FEM).
 
-Author: Juan Becerra
+Author: Jesus Becerra
 
 Project: Linux Learning & Documentation
 
